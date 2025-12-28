@@ -1,0 +1,57 @@
+# =========================
+# Python virtual environment
+# =========================
+venv/
+env/
+.venv/
+
+# =========================
+# Python cache & compiled files
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Jupyter Notebook checkpoints
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Data files (raw & processed)
+# =========================
+data/raw/
+data/processed/
+
+# =========================
+# Trained models
+# =========================
+models/*.pkl
+models/*.joblib
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# VS Code settings
+# =========================
+.vscode/
+
+# =========================
+# Environment variables
+# =========================
+.env
+
+# =========================
+# Docker
+# =========================
+*.tar
