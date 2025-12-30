@@ -21,7 +21,6 @@ __pycache__/
 # =========================
 # Data files (raw & processed)
 # =========================
-data/raw/
 data/processed/
 
 # =========================
